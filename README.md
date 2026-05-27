@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Smart Tap — Bucket Water Level Classifier
 
 ## Project Structure
@@ -108,3 +109,7 @@ TagDetector (HSV color masking)
 
 Variance is measured in the ROI (center third of frame) to avoid
 bucket walls and background clutter.
+=======
+# Smart_tap_system
+AI-powered Smart Tap system using ESP32, Computer Vision, OpenCV, TensorFlow, and MobileNetV2 for real-time water level detection and automatic tap control with edge AI optimization and Raspberry Pi deployment support.
+>>>>>>> 21a6e39cf93663e772d7a82bba4f26d13833869e
