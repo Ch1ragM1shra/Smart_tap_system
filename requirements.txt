@@ -1,0 +1,13 @@
+# Smart Tap — Requirements
+
+# Core
+opencv-python>=4.8.0
+numpy>=1.24.0
+scikit-learn>=1.3.0
+matplotlib>=3.7.0
+
+# ML (skip on Pi — use tflite-runtime instead)
+tensorflow>=2.13.0
+
+# Pi only (replace tensorflow with this)
+# tflite-runtime>=2.13.0
